@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://c.tenor.com/OtbKZCk_Y-EAAAAC/kermit-the-frog-typewriter.gif" height="200"/>
-</p>
-
 <h1>Hello, I'm Alice! 👋</h1>
 
 * I'm a full-stack software engineer/developer and freshly graduated from App Academy in this September 📣
@@ -9,12 +5,16 @@
 * Open to both front-end/back-end opportunities in the field, and happy to collaborate on any fun projects!! 😆
 
 ## Find me elsewhere 
-  [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](aliceqingli@gmail.com) 
   [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/alice886)
   [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/alice886/)
   [<img src="https://img.shields.io/badge/AngelList-000000?style=for-the-badge&logo=AngelList&logoColor=white" />](https://angel.co/u/alice886)
   [<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@alice886)
+  [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/_dfff00/) 
 
+### And feel free to reach me at 📧 qinglialice@gmail.com
 
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alice886&theme=vue"/>
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alice886&theme=vue" width="570"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alice886" height="240"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alice886" height="280"/><img src="https://c.tenor.com/OtbKZCk_Y-EAAAAC/kermit-the-frog-typewriter.gif" height="210"/>
+
+  
