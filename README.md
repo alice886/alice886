@@ -17,4 +17,4 @@
 
 
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alice886&theme=vue" width="500"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alice886" height="240"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alice886&theme=vue" width="570"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alice886" height="240"/>
