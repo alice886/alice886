@@ -11,10 +11,10 @@
   [<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@alice886)
   [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/_dfff00/) 
 
-### And feel free to reach me at 📧 qinglialice@gmail.com
+#### And feel free to reach me at   📧  qinglialice@gmail.com
 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alice886&theme=vue"/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alice886" height="280"/><img src="https://c.tenor.com/OtbKZCk_Y-EAAAAC/kermit-the-frog-typewriter.gif" height="210"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alice886" height="280"/>  <img src="https://c.tenor.com/OtbKZCk_Y-EAAAAC/kermit-the-frog-typewriter.gif" height="200"/>
 
   
