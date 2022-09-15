@@ -13,8 +13,4 @@
 
 #### And feel free to reach me at   📧  qinglialice@gmail.com
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alice886&theme=vue"/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alice886" height="280"/>  <img src="https://c.tenor.com/OtbKZCk_Y-EAAAAC/kermit-the-frog-typewriter.gif" height="200"/>
-
-  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alice886&layout=compact" height="200"/> <img src="https://c.tenor.com/OtbKZCk_Y-EAAAAC/kermit-the-frog-typewriter.gif" height="199"/>
