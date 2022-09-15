@@ -5,8 +5,8 @@
 <h1>Hello, I'm Alice! 👋</h1>
 
 * I'm a full-stack software engineer/developer and freshly graduated from App Academy in this September 📣
-* I was made in Guangzhou China, lived in Buffalo, Boston, and became a bay area transplant since 2019 🌱 
-* I'm open to both front-end/back-end opportunities in the field, and happy to collaborate on any fun projects! 😆
+* Was made in Guangzhou China, lived in Buffalo, Boston, and became a bay area transplant since 2019 🌱 
+* Open to both front-end/back-end opportunities in the field, and happy to collaborate on any fun projects!! 😆
 
 ## Find me elsewhere 
   [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](aliceqingli@gmail.com) 
