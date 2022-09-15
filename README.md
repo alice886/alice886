@@ -1,7 +1,7 @@
 <h1>Hello, I'm Alice! 👋</h1>
 
 * I'm a full-stack software engineer/developer and freshly graduated from App Academy in this September 📣
-* Was made in Guangzhou China, lived in Buffalo, Boston, and became a bay area transplant in 2019 🌱 
+* Was made in Guangzhou China, lived in Buffalo, Boston, and became a Bay Area transplant in 2019 🌱 
 * Open to both front-end/back-end opportunities in the field, and happy to collaborate on any fun projects!! 😆
 
 ## Find me elsewhere 
