@@ -11,4 +11,7 @@
 
 #### And feel free to reach me at   📧  qinglialice@gmail.com
 
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alice886&layout=compact" height="200"/> <img src="https://c.tenor.com/OtbKZCk_Y-EAAAAC/kermit-the-frog-typewriter.gif" height="199"/>
+ 
+![Screen Shot 2022-09-18 at 9 22 10 PM](https://user-images.githubusercontent.com/93701088/190949691-32c19fc9-e52f-47a4-af62-03424ae21678.png)
