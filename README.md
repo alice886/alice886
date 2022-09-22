@@ -11,12 +11,21 @@
 
 #### And feel free to reach me at   📧  qinglialice@gmail.com
 
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alice886&layout=compact" height="200"/> <img src="https://c.tenor.com/OtbKZCk_Y-EAAAAC/kermit-the-frog-typewriter.gif" height="199"/>
+<p align="center">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alice886&layout=compact" height="300"/>
+</p>
  
- <p align="center">
-- Quote for the day -
+<p align="center">
+  - Quote for the day -
 </p>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/93701088/191866117-7e431623-2264-4986-83ef-0fec96dfa9bc.jpeg" width="400"/>
+</p>
+
+<p align="center">
+  -
+</p>
+
+<p align="center">
+  <img src="https://c.tenor.com/OtbKZCk_Y-EAAAAC/kermit-the-frog-typewriter.gif" height="60"/>
 </p>
