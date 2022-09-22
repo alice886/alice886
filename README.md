@@ -12,7 +12,7 @@
 #### And feel free to reach me at   📧  qinglialice@gmail.com
 
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alice886&layout=compact" height="300"/>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alice886&layout=compact" height="200"/>
 </p>
  
 <p align="center">
