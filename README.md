@@ -1,7 +1,7 @@
 <h1>Hello, I'm Alice! 👋</h1>
 
 * I'm a full-stack software engineer/developer and freshly graduated from App Academy in this September 2022 📣
-* Lived in Guangzhou China, Buffalo and Boston; became a Bay Area transplant in 2019 🌱 
+* Lived in Guangzhou, Buffalo and Boston; became a Bay Area transplant in 2019 🌱 
 * For the past year, I've been building web applications using Python and JS, and currently planning for a game app 👩🏻‍💻
 * Open to both front-end/back-end opportunities in the field, and happy to collaborate on fun projects!! 😆
 * I am eager to meet other SWEs out there and join the industry at any time. 
