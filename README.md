@@ -6,7 +6,7 @@
 * Open to both front-end/back-end opportunities in the field, and happy to collaborate on fun projects!!  😆
 * I am eager to meet other SWEs out there and join the industry at any time. 
 
-#### Want to know more about me? Come check out my [ portfolio ](https://alice886.github.io)!
+#### Want to know more about me? Come check out [ my portfolio ](https://alice886.github.io)!
 #### Or just looking to get coffee? ☕  Feel free to 📧 me at qinglialice@gmail.com
 
 
