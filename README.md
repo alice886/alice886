@@ -1,4 +1,4 @@
-<h1> <img src="https://i.pinimg.com/originals/1a/d4/56/1ad45624ffb766ef637cb7906a1da33b.gif" height="55px"/> welcome to Alice's GitHub page!</h1>
+<h1> &nbsp; &nbsp; <img src="https://i.pinimg.com/originals/1a/d4/56/1ad45624ffb766ef637cb7906a1da33b.gif" height="55px"/> welcome to Alice's GitHub page!</h1>
 <!-- <img src="https://media1.giphy.com/media/WSClszcnbWjdqBY2Cc/giphy.gif?cid=790b7611eb111b969f53ff02ca4bfd263e84e26f7b904ca3&rid=giphy.gif&ct=s" height="35px"/></h1> -->
 <!-- <img src="https://i.pinimg.com/originals/88/44/13/884413348e601d88831b61fd969aafc4.gif" height="35px"/></h1> -->
 
