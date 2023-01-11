@@ -4,7 +4,7 @@
 
 * I'm a full-stack software engineer/developer and freshly graduated from App Academy in this September 2022  📣
 * Lived in Guangzhou, Buffalo and Boston; became a Bay Area transplant in 2019  🌱 
-* For the past year, I've been building web applications using Python and JS, and currently learning MongoDB, Kuberetes and Angular 👩🏻‍💻
+* For the past year, I've been building web applications using Python and JS, and currently learning MongoDB and Kubernetes 👩🏻‍💻
 * Open to both front-end/back-end opportunities in the field, and happy to collaborate on fun projects!!  😆
 * I am eager to meet other SWEs out there and join the industry at any time. ⛲
 
