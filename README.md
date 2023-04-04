@@ -2,9 +2,9 @@
  <h1> Welcome to Alice's GitHub page!</h1>
 <!-- <img src="https://media1.giphy.com/media/WSClszcnbWjdqBY2Cc/giphy.gif?cid=790b7611eb111b969f53ff02ca4bfd263e84e26f7b904ca3&rid=giphy.gif&ct=s" height="35px"/></h1> -->
 <!-- <img src="https://i.pinimg.com/originals/88/44/13/884413348e601d88831b61fd969aafc4.gif" height="35px"/></h1> -->
+<!-- * Lived in Guangzhou, Buffalo and Boston; became a Bay Area transplant in 2019  🌱  -->
 
 * I'm a full-stack software engineer/developer and freshly graduated from App Academy in 2022  📣
-<!-- * Lived in Guangzhou, Buffalo and Boston; became a Bay Area transplant in 2019  🌱  -->
 * For the past year, I've been building web applications using Python and JS, and currently learning MongoDB & TypeScript 👩🏻‍💻
 * Open to both front-end/back-end opportunities in the field, and happy to collaborate on fun projects!!  😆
 * I am eager to meet other SWEs out there and join the industry at any time. ⛲
