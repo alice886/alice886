@@ -20,8 +20,8 @@
 
 
 
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alice886&layout=compact" height="160"/>
-
+<!--  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alice886&layout=compact" height="160"/> -->
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alice886&theme=dark&layout=compact&card_width=666&langs_count=10" />
 
 <p align="center">
 
